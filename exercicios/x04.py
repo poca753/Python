@@ -4,7 +4,6 @@
 #*bool é para armazenar valores verdadeiros e falso
 #*str armazena texto
 
-dia=input("que dia é hoje ?")
-mes=input("que mes é esse ?")
-ano=input("que ano é esse ?")
-print("nossa atividade esta sendo feita em {} de {} em {}".format(dia,mes,ano))
+num1=int (input("qual é o seu numero "))
+num2=int (input("qual é o segundo numero "))
+print("a soma entre {} e {} é igual a {}".format(num1,num2,num1+num2))
