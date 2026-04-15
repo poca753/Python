@@ -1,3 +1,5 @@
-frase ="estou fazendo uma prova de backend"
-dividido = frase.split()
-print(dividido[2])
+frase = "curso de analise e desenvolvimento de sistemas"
+palavra ="desenvolvimento"
+
+posicao = frase.find(palavra)
+print("a palavra achada é {}".format(posicao))
