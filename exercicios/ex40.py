@@ -6,4 +6,3 @@ elif numero1 < numero2:
     print("o numero 2 é maior")
 else:
     print("os valores são iguais")
-,nj
